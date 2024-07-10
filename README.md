@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tianyu Shen
-- 👀 I’m interested in Demography
+- 👀 I’m interested in Demography (population health, population change, formal demogrpahy)
 - 📫 How to reach me tainyu.shen@anu.edu.au <br />
 - 🖥️ https://demography.cass.anu.edu.au/people/tianyu-alex-shen
 
